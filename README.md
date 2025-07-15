@@ -42,8 +42,8 @@ npm run dev
 [Timestamp in ms],[Duration in µs]
 1752518102171,222215
 ```
-### DEMO:
+### DEMO
 
 <p align="center">
-  <img src="public/charts - Made with Clipchamp.mp4" width="700" />
+  <img src="public/charts%20-%20Made%20with%20Clipchamp.gif" width="700" />
 </p>
