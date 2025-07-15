@@ -45,5 +45,5 @@ npm run dev
 ### DEMO:
 
 <p align="center">
-  <img src="public/charts%20-%20Made%20with%20Clipchamp.gif" width="700" />
+  <img src="public/charts - Made with Clipchamp.mp4" width="700" />
 </p>
